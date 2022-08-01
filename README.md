@@ -8,4 +8,4 @@ There are several programs in this project including:
 3. [Iteration](https://github.com/anandabayuf/EmsaCode-Test-Program/blob/master/src/main/java/com/emsacode/testproject/IterationExample.java)
    by run directly on the file
 4. [API Project using JPA Repository w/ Postgres](https://github.com/anandabayuf/EmsaCode-Test-Program/tree/master/src/main/java/com/emsacode)
-   by ```mvn spring-boot:run```script
+   by ```mvn spring-boot:run```
