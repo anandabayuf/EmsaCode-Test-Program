@@ -1,0 +1,7 @@
+com\emsacode\repository\StudentRepository.class
+com\emsacode\testproject\IterationExample.class
+com\emsacode\JpaPostgresApplication.class
+com\emsacode\testproject\ArrayListExample.class
+com\emsacode\controller\StudentController.class
+com\emsacode\model\Student.class
+com\emsacode\testproject\HqlExample.class
